@@ -1,0 +1,15 @@
+Copyright (c) 2026 alirahmaniq. All rights reserved.
+
+"Hello, shake me - Kindness" is a personal project. The idea, design, animations, messages and code
+in this repository belong to the author.
+
+You are welcome to look at it, learn from it and try it on your own device for personal,
+non-commercial use. Please ask the author for permission before copying, publishing or using it
+(or a modified version of it) in any product, service, publication or other commercial work.
+
+Contact: https://alirahmaniq.github.io
+
+---------------------------------------------------------------------------
+Third-party components included in this repository keep their own licences:
+- es8311.c / es8311.h / es8311_reg.h: (c) Espressif Systems, Apache License 2.0
+- fonts.h glyph data: Sacramento, Caveat, Lora, Nunito - SIL Open Font License 1.1 (see licenses/)
