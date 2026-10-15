@@ -12,7 +12,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="docs/demo.gif" alt="Hello, shake me - animated preview" width="300"></td>
-    <td align="center"><a href="https://youtube.com/shorts/oJcF-h-4M5Q"><img src="https://i.ytimg.com/vi/oJcF-h-4M5Q/oardefault.jpg" alt="Hello, shake me on the real device - watch on YouTube" width="190"></a></td>
+    <td align="center"><a href="https://youtube.com/shorts/oJcF-h-4M5Q"><img src="docs/youtube.jpg" alt="Hello, shake me on the real device - watch on YouTube" width="190"></a></td>
   </tr>
   <tr>
     <td align="center"><sub>Animated preview · <a href="docs/demo.mp4">MP4</a></sub></td>
