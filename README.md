@@ -9,9 +9,16 @@
 ![Display](https://img.shields.io/badge/display-1.75%E2%80%B3%20AMOLED%20466%C3%97466-black)
 ![Copyright](https://img.shields.io/badge/%C2%A9-all%20rights%20reserved-lightgrey)
 
-<p align="center"><img src="docs/demo.gif" alt="Hello, shake me - animated preview" width="360"></p>
-
-<p align="center"><sub>Animated preview of the firmware (not a screen recording) · <a href="docs/demo.mp4">watch the MP4</a></sub></p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="docs/demo.gif" alt="Hello, shake me - animated preview" width="300"></td>
+    <td align="center"><a href="https://youtube.com/shorts/oJcF-h-4M5Q"><img src="https://i.ytimg.com/vi/oJcF-h-4M5Q/oardefault.jpg" alt="Hello, shake me on the real device - watch on YouTube" width="190"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Animated preview · <a href="docs/demo.mp4">MP4</a></sub></td>
+    <td align="center"><sub>On the real device · <a href="https://youtube.com/shorts/oJcF-h-4M5Q">watch on YouTube</a></sub></td>
+  </tr>
+</table>
 
 Kindness is open-source firmware for a palm-sized, battery-powered round AMOLED board. It greets you
 with a hand-written **"hello"** and a little **"shake me"** that wiggles for attention. Shake it, and one
